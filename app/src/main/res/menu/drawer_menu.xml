@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="@color/white"
+
+    >
+    <group
+        android:id="@+id/group_divider1"
+        android:background="@drawable/backgrount"
+        >
+
+
+        <item
+            android:id="@+id/nav_home"
+            android:title="Home"
+            android:checked="true"
+            android:icon="@drawable/home"
+            android:actionMenuTextColor="@color/colorPrimary" />
+    </group>
+
+    <group
+        android:id="@+id/group_divider2"
+        >
+
+        <item
+            android:id="@+id/nav_about_us"
+            android:icon="@drawable/aboutus"
+
+            android:title=" About Us"/>
+    </group>
+    <group
+        android:id="@+id/group_divider3"
+        >
+
+
+        <item
+            android:id="@+id/nav_products"
+            android:icon="@drawable/product"
+            android:title="Products"/>
+    </group>
+    <group
+        android:id="@+id/group_divider4"
+        >
+        <item
+            android:id="@+id/nav_request_quote"
+            android:icon="@drawable/request_quote"
+            android:title="Request Quote"
+            />
+    </group>
+    <group
+        android:id="@+id/group_divider5"
+        >
+        <item
+            android:id="@+id/nav_order_products"
+            android:icon="@drawable/order_products"
+            android:title="Order Products"/>
+    </group>
+    <group
+        android:id="@+id/group_divider6"
+        >
+        <item
+            android:id="@+id/navdealers"
+            android:icon="@drawable/dealer"
+            android:title="Dealers"/>
+    </group>
+    <group
+        android:id="@+id/group_divider7"
+        >
+        <item
+            android:id="@+id/nav_price"
+            android:icon="@drawable/price"
+            android:title="Pricing"/>
+
+    </group>
+
+</menu>

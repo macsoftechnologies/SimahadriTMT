@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#079CFF</color>
+    <color name="colorPrimaryDark">#079CFF</color>
+    <color name="colorAccent">#079CFF</color>
+    <color name="black">#000000</color>
+    <color name="alphaBlack">#66000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="gray">#efedef</color>
+    <color name="Red">#FF0000</color>
+    <color name="Lime">#00FF00</color>
+    <color name="Blue">#0000FF</color>
+    <color name="Yellow">#FFFF00</color>
+    <color name="Cyan">#00FFFF</color>
+    <color name="Magenta">#FF00FF</color>
+    <color name="Silver">#C0C0C0</color>
+    <color name="Gray">#808080</color>
+    <color name="Maroon">#800000</color>
+    <color name="Olive">#808000</color>
+    <color name="Green">#008000</color>
+    <color name="Purple">#800080</color>
+    <color name="Teal">#008080</color>
+    <color name="Navy">#000080</color>
+    <color name="greyishBrown">#4B4B4B</color>
+    <color name="recordTextColor">#e40000</color>
+    <color name="app_sky_blue">#079CFF</color>
+
+
+
+
+
+
+    <!-- Editor Color -->
+
+    <color name="blue_color_picker">#0066FF</color>
+    <color name="brown_color_picker">#AF593E</color>
+    <color name="green_color_picker">#01A368</color>
+    <color name="orange_color_picker">#FF861F</color>
+    <color name="red_color_picker">#ED0A3F</color>
+    <color name="red_orange_color_picker">#FF3F34</color>
+    <color name="sky_blue_color_picker">#76D7EA</color>
+    <color name="violet_color_picker">#8359A3</color>
+    <color name="yellow_color_picker">#FBE870</color>
+    <color name="yellow_green_color_picker">#C5E17A</color>
+    <color name="tool_bg">#151414</color>
+</resources>
